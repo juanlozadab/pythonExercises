@@ -1,2 +1,2 @@
 print('hola mundo')
-print('este moundo')
+print('este mundo')
